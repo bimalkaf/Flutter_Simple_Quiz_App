@@ -4,5 +4,7 @@ A new Flutter project.
 
 UI Screenshots:
 
+![smartmockups_l4k0wi54](https://user-images.githubusercontent.com/60041910/174446035-7ba4907b-ed3a-46d2-a1c2-1b332214476e.jpg)
 
-![quiz_app](https://user-images.githubusercontent.com/60041910/174446018-5ad960d6-922b-4dd5-bc6c-0f511643ed87.jpg)
+
+![smartmockups_l4k0vg1s](https://user-images.githubusercontent.com/60041910/174446036-646902b0-64ef-4659-9589-9170ff35ec88.jpg)
